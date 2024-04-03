@@ -1,0 +1,6 @@
+{
+    "posts": [
+      { "id": "1", "title": "Curso Quasar Crudr", "author": "Ruan Rody", "content": "Este é um artigo sobre view 3 Quasar e API Rest"},
+      { "id": "2", "title": "Curso Vue 3", "author": "Ruan Rody", "content": "Este é um artigo sobre vue 3"}
+    ]
+  }
